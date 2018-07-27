@@ -14,3 +14,6 @@ statistical categorical analysis
 1. Crime_Data_2010_2017.csv - This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy.
 
 2. Cleaned_Crime_Data.csv - Crime Cleaned Data
+
+#### Images:
+Project results and Visualization.  

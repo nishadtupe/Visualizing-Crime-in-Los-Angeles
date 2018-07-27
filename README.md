@@ -1,4 +1,4 @@
-# DV-Project-SU-2018 - "Visualizing Crime In Los Angeles"
+# DV-Project-SU-2018 - "Visualizing Crime In Los Angeles "
 ## Izolda Fetko, Nishad Tupe , Sushant Athaley - University of Indiana , Bloomington 
 ### This repository contains Python Code Files , Datasets , Visualization Images. 
 

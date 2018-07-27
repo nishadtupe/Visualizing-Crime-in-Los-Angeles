@@ -5,7 +5,7 @@
   
 
 #### Datasets  :
-The dataset is huge in size and restricted to upload so it can be downloaded from kaggle website.
+The dataset is huge in size and github restricted to upload so it can be downloaded from kaggle website.
 https://www.kaggle.com/cityofLA/crime-in-los-angeles
 
 ### Original dataset.

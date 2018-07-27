@@ -5,17 +5,12 @@
 
 #### Bin description :
 
-1. Final_project_code.ipypnb - Loads train and test .json datasets and use scikit learn algorithms for cuisine analysis. 
-2. Food_network_project.iypnb - Loads .net files and performs basic Network Analysis and matplotlib plots for Graphs.
-3. Top_5_Cuisine_Nutrient_Analysis.ipynb – Loads the Top_5.xlsx and produces various matplotlib plots for nutrients.  
-4. Cuisine_Hypothesis.ipynb - Loads .net files and plots the distributions for degree assortativity coefficient for null an real models.
-5. Raw_USDA_Ingredients_Analysis.ipynb – Loads the USDA standard ingredient dataset and produces matplotlib various plots.
-6. Project_code - Same file final_project_code used as backup code. 
+1. Final_Project_Data_Clean_Categorical_Analysis.ipypnb - Loads the dataset and clean the data for visualizations, also has and  
+statistical categorical analysis 
+2. Final_Project_Time_Series_and_Breakdowns.ipynb - Loads the clean dataset and does time series analysis.
+3. Final_Project_Geo_Mapping.ipynb - Loads the dataset and performs Geo-Spatial analysis.  
 
 #### Datasets description :
-1. all_data.net , small.net – Pajek files (Graphs).
-2. train.json - Train dataset  
-3. test.json - Test dataset 
-4. Top_5.xlsx(Custom Dataset) - Top 5 ingredients per cuisine with nutrient information
-5. ABBREV.xlsx – USDA standard dataset with ingredient nutrient(USDA.gov)
-6. Vegnonvegsmall.csv ,projectbigdata_csv.csv(Custom Dataset)- Veg/Non Veg classification serves input to Gephi.
+1. Crime_Data_2010_2017.csv - This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy.
+
+2. Cleaned_Crime_Data.csv - Crime Cleaned Data
